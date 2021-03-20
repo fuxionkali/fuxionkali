@@ -1,4 +1,4 @@
-require = ('Allah')
+
 - 👋 Hi, I’m @fuxionkali
 - 👀 I’m interested in Java Central
 - 🌱 I’m currently learning Javascript
